@@ -8,3 +8,10 @@ docs for Makka Pakka Land
 ## Q: What kind of investors do you like?
 
 ## A: As a low-cost community project, we welcome everyone to build it together!I hope everyone who holds $GUAD can treat the project as their own.We welcome everyone to submit their own opinions and suggestions about the project. But I personally refuse anyone to make sharp criticisms of the project/community/developers.
+
+## Q: Where can I see the detailed planning of the project?
+
+## Ａ: 对于中文区成员: [查看中文文档](https://github.com/makkapakkaLanuch/docs/blob/main/backgroud/zh.md)
+
+## Ａ: For other language members: [Click Here](https://github.com/makkapakkaLanuch/docs/blob/main/backgroud/en.md)
+
