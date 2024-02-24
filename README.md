@@ -11,7 +11,5 @@ docs for Makka Pakka Land
 
 ## Q: Where can I see the detailed planning of the project?
 
-## Ａ: 对于中文区成员: [查看中文文档](https://github.com/makkapakkaLanuch/docs/blob/main/backgroud/zh.md)
-
-## Ａ: For other language members: [Click Here](https://github.com/makkapakkaLanuch/docs/blob/main/backgroud/en.md)
+## We provide documentation in many languages, including Chinese, English, Korean, Japanese and Arabic documentation support. You can check it at [featrues](https://github.com/makkapakkaLanuch/docs/tree/main/featrues) and [backgroud](https://github.com/makkapakkaLanuch/docs/tree/main/backgroud)
 
