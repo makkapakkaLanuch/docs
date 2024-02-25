@@ -7,6 +7,6 @@ Makka Pakka Land is a GameFi project, a collection of many gameplays.
 
 - Breeding system: Players can enhance the attributes of their pets through breeding and fight side by side with their pets.
 
-- Recommendation system: Recommend your friends to join the game, form a legion and achieve great success in the game.
+- Recommendation system: Recommend your friends to join the game and form a legion to achieve great success in the game. Receive resources every day based on player contributions.
 
 More gameplays are being designed.
