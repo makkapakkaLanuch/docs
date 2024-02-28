@@ -14,5 +14,6 @@ docs for Makka Pakka Land
 ## We provide documentation in many languages, including Chinese, English, Korean, Japanese and Arabic documentation support. You can check it at [featrues](https://github.com/makkapakkaLanuch/docs/tree/main/featrues) and [backgroud](https://github.com/makkapakkaLanuch/docs/tree/main/backgroud)
 
 # Mind Map
-- We release the first version of our Game Planning Mind Map
-- ![map](https://github.com/makkapakkaLanuch/docs/blob/main/x/Makka_Pakka_Map.png)
+We release the first version of our Game Planning Mind Map
+
+![map](https://github.com/makkapakkaLanuch/docs/blob/main/x/Makka_Pakka_Map.png)
