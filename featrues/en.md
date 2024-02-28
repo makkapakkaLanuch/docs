@@ -10,3 +10,7 @@ Makka Pakka Land is a GameFi project, a collection of many gameplays.
 - Recommendation system: Recommend your friends to join the game and form a legion to achieve great success in the game. Receive resources every day based on player contributions.
 
 More gameplays are being designed.
+
+# Mind Map
+- We release the first version of our Game Planning Mind Map
+- ![_](../x/Makka_Pakka_Map.png)

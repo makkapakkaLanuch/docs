@@ -1,0 +1,63 @@
+graph {
+	A [label="Makka Pakka Land"]
+	B [label="MEME COIN $GUAD"]
+	C [label=INSCRIPTION]
+	D [label="Completely based on smart contracts GameFi"]
+	E [label="Equipment system based on rmrk protocol"]
+	F [label="Contribution-based Proof of shares Recommendation system"]
+	G [label="Fair and open distribution method"]
+	H [label="Trade as brc20 on BTC network & ERC20 Token on L2(MAPO CHAIN)"]
+	I [label="In-game economic system"]
+	J [label="Rich gameplay and token consumption scenarios"]
+	K [label="Consumption of $GUAD tokens"]
+	M [label="Consumption of $MAPO tokens"]
+	L [label="Consumption of $LSGS tokens"]
+	O [label="MAPO-GUAD LP"]
+	P [label="LSGS-GUAD LP"]
+	X [label="GUAD-ENERGY LP"]
+	Y [label="GUAD-METAL LP"]
+	b [label="GUAD-WOOD LP"]
+	Q [label="Equipment system Consumption"]
+	R [label="Recommendation system Consumption"]
+	S [label="Bet system Consumption($MAPO)"]
+	T [label="Bet system Consumption($LSGS)"]
+	Y [label="BUILDING system"]
+	U [label="Energy Token as every day Reward."]
+	V [label="Metal tokens Obtained through the game"]
+	a [label="In Game Wood Token"]
+	A -- B
+	A -- C
+	C -- G
+	C -- H
+	A -- D
+	D -- E
+	D -- F
+	D -- I
+	D -- J
+	I -- J
+	K -- O
+	K -- P
+	M -- O
+	L -- P
+	Q -- O
+	Q -- P
+	K -- R
+	S -- M
+	T -- L
+	R -- U
+	U -- I
+	U -- J
+	B -- O
+	B -- P
+	V -- Q
+	U -- Q
+	B -- X
+	B -- Y
+	U -- X
+	U -- Y
+	a -- Y
+	b -- Y
+	I -- a
+	I -- Y
+	A [color=lightblue style=filled]
+}
