@@ -16,4 +16,13 @@ docs for Makka Pakka Land
 # Mind Map
 We release the first version of our Game Planning Mind Map
 
-![map](https://github.com/makkapakkaLanuch/docs/blob/main/x/Makka_Pakka_Map.png)
+<!-- ![map](https://github.com/makkapakkaLanuch/docs/blob/main/x/Makka_Pakka_Map.png)
+
+# -->
+
+# Notice
+The mint of GUAD tokens on the LSGS platform has been cancelled. The platform will refund everyone's fees within the next week.
+To all the supporters, I am very grateful to you. We all work hard and meet at the top.
+Both $LSGS and Makka Pakka Land are getting better and better.
+
+For some crazy dogs in the LSGS Chinese community. Go back and fuck your mother!
